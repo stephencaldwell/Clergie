@@ -1,1 +1,3 @@
-(ns clergie.core)
+(ns clergie.core
+  (require [org.touqen.irc]))
+
